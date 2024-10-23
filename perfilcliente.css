@@ -1,0 +1,57 @@
+body {
+    background-color: #f0efef;
+    background-image: url(./solutionsfundo.jpg);
+}
+
+h1 {
+    text-align: center;
+    font-family: Inter, sans-serif
+}
+
+.circle {
+    width: 175px;
+    height: 175px;
+    background-color: #C8C8C8;
+    border-radius: 50%;
+    border: 3px solid #0000FA;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.btn {
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 350px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 22px;
+    color: #fff;
+    background: #0000FA;
+    border-radius: 30px;
+    cursor: pointer;
+    font-family: montserrat;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btnsair {
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 22px;
+    color: red;
+    border-radius: 30px;
+    cursor: pointer;
+    font-family: montserrat;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
